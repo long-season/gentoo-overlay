@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DEPEND=sys-fs/fuse:0
+DESCRIPTION=The Kubernetes IDE - AppImage version with no forced login
+EAPI=8
+HOMEPAGE=https://github.com/MuhammedKalkan/OpenLens
+KEYWORDS=~amd64
+LICENSE=MIT CC-BY-SA-4.0
+RDEPEND=sys-fs/fuse:0
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.5.2-356/OpenLens-6.5.2-356.x86_64.AppImage
+_md5_=49c212cd0c15fe5adfb05fc556df980f

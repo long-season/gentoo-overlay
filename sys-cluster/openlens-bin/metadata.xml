@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <username>long_season</username>
+  </maintainer>
+  <longdescription lang="en">
+    OpenLens is a Kubernetes IDE. This AppImage is modified to bypass the forced login on launch.
+  </longdescription>
+  <upstream>
+    <remote-id type="github">MuhammedKalkan/OpenLens</remote-id>
+    <bugs-to>https://github.com/lensapp/lens/issues</bugs-to>
+  </upstream>
+</pkgmetadata>

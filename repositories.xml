@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>long-season</name>
+      <description lang="en">Highly unstable personal overlay</description>
+      <homepage>https://github.com/long-season/gentoo-overlay</homepage>
+        <owner type="person">
+            <username>long_season</username>
+        </owner>
+        <source type="git">git://github.com/long-season/gentoo-overlay.git</source>
+  </repo>
+</repositories>
